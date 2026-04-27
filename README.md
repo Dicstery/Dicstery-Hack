@@ -1,4 +1,4 @@
-# DICSTERY HACK v1.3.1
+# DICSTERY HACK v1.3.2
 
 Портативный хакерский мультитул в одном HTML-файле (PWA). Работает полностью в браузере, без сервера.
 
@@ -16,7 +16,7 @@
 - **📱 Телефон** — htmlweb.ru + Numverify + PhoneNumberApi
 - **🌍 IP** — ip-api.com + ipinfo.io
 - **📧 Email** — XposedOrNot (проверка утечек)
-- **🔎 Maigret** — поиск по 3000+ сайтам (кешируется)
+- **🔎 Maigret** — поиск по 1400+ сайтам (кешируется)
 
 ### 🕸️ ВЕБ-ХАК
 - 🧱 Обнаружение WAF (Cloudflare, Sucuri)
@@ -75,9 +75,17 @@
 
 ## Скриншоты
 
-| Терминал | Инструменты | AI |
-|---|---|---|
-| ![Терминал](screenshots/terminal.png) | ![Инструменты](screenshots/tools.png) | ![AI](screenshots/ai.png) |
+| Терминал |
+|---|
+| ![Терминал](screenshots/terminal.png) |
+
+| Инструменты |
+|---|
+| ![Инструменты](screenshots/tools.png) |
+
+| AI |
+|---|
+| ![AI](screenshots/ai.png) |
 
 
 ## Технологии
